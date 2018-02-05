@@ -3,7 +3,7 @@ information for data scientists
 # データサイエンス
 ## 1. Jupyter notebookの学習
 ## 2. Markdownの学習
-## 3. Pandasの学習
+## 3. [Pandasの学習](Pandasの学習.md)
 ## 4. Scikit-learnの学習
 ## 5. TensorFlowの学習
 ## 6. Kaggle
