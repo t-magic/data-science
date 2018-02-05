@@ -26,8 +26,8 @@
 
 * [pandas.DataFrame, Seriesの要素の値を置換するreplace | Python / note.nkmk.me](https://note.nkmk.me/python-pandas-replace/)
     ```
-df.replace('CA', 'California')
-```
+    df.replace('CA', 'California')
+    ```
 
     ```
     df.replace('(.*)li(.*)', r'\1LI\2', regex=True)
