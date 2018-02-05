@@ -20,9 +20,9 @@
 * [pythonで列データの文字列置換 | NEHAN](http://nehan.io/blog/python-data-transform/id-17)
 
     ```
-## data1のeducation列データの'-'を'_'に置換する
-data1['education'] = data1['education'].str.replace('-', '_')
-```
+    ## data1のeducation列データの'-'を'_'に置換する
+    data1['education'] = data1['education'].str.replace('-', '_')
+    ```
 
 * [pandas.DataFrame, Seriesの要素の値を置換するreplace | Python / note.nkmk.me](https://note.nkmk.me/python-pandas-replace/)
     ```
