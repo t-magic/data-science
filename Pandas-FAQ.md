@@ -30,18 +30,18 @@ df.replace('CA', 'California')
 ```
 
     ```
-df.replace('(.*)li(.*)', r'\1LI\2', regex=True)
-```
+    df.replace('(.*)li(.*)', r'\1LI\2', regex=True)
+    ```
 
     ```
-df['name'] = df['name'].str.replace('li', 'LI')
-```
+    df['name'] = df['name'].str.replace('li', 'LI')
+    ```
 
 * [pandasで欠損値NaNを除外（削除）・置換（穴埋め）する | Python / note.nkmk.me](https://note.nkmk.me/python-pandas-nan-dropna-fillna/)
 
     ```
-df.fillna({'name': 'XXX', 'age': 20, 'point': 0})
-```
+    df.fillna({'name': 'XXX', 'age': 20, 'point': 0})
+    ```
 
 * [<Python, pandas> 文字列の置換 - ねこゆきのメモ](http://nekoyukimmm.hatenablog.com/entry/2016/11/11/144255)
 
@@ -55,5 +55,5 @@ df.fillna({'name': 'XXX', 'age': 20, 'point': 0})
 ## pandas index starting from one
 * [python - Start index at 1 when writing Pandas DataFrame to CSV - Stack Overflow](https://stackoverflow.com/questions/20167930/start-index-at-1-when-writing-pandas-dataframe-to-csv)
     ```
-result.index += 1
-```
+    result.index += 1
+    ```
