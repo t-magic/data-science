@@ -3,7 +3,8 @@ information for data scientists
 ## 1. Pandasの学習
 ## 2. Scikit-learn
 ## 3. TensorFlow
-## 4. GitHub
+## 4. Kaggle
+## 5. GitHub
 
 ---
 # 参考
