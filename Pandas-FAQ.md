@@ -23,16 +23,20 @@
 ## data1のeducation列データの'-'を'_'に置換する
 data1['education'] = data1['education'].str.replace('-', '_')
 ```
+
 * [pandas.DataFrame, Seriesの要素の値を置換するreplace | Python / note.nkmk.me](https://note.nkmk.me/python-pandas-replace/)
     ```
 df.replace('CA', 'California')
 ```
+
     ```
 df.replace('(.*)li(.*)', r'\1LI\2', regex=True)
 ```
+
     ```
 df['name'] = df['name'].str.replace('li', 'LI')
 ```
+
 * [pandasで欠損値NaNを除外（削除）・置換（穴埋め）する | Python / note.nkmk.me](https://note.nkmk.me/python-pandas-nan-dropna-fillna/)
 
     ```
