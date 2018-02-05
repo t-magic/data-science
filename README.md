@@ -18,3 +18,5 @@ information for data scientists
    * [Becoming a Data Scientist - Curriculum via Metromap – Pragmatic Perspectives](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/)
       ![](http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png)
 * [Towards a Community-driven Data Science Body of Knowledge – Data Mana…](https://www.slideshare.net/ResearchDataAlliance/towards-a-communitydriven-data-science-body-of-knowledge-data-management-skills-and-competences)
+* [Slide 1](http://edison-project.eu/sites/edison-project.eu/files/attached_files/node-5/edison2017poster01-edsf-v03.pdf)
+   
