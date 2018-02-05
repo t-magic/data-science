@@ -1,5 +1,6 @@
 # data-science
 information for data scientists
+# データサイエンス
 ## 1. Jupyter notebookの学習
 ## 2. Markdownの学習
 ## 3. Pandasの学習
