@@ -10,6 +10,10 @@ information for data scientists
 ## 7. GitHub
 
 ---
+
+# 分析手法
+## [ロジスティック回帰分析](ロジスティック回帰分析.md)
+---
 # 参考
 ## 1. [様々なセミナー](様々なセミナー.md)
 ## 2. data science body of knowledge
